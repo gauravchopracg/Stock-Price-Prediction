@@ -13,15 +13,6 @@ This is the code for the Stock Price Prediction. The code uses the [scikit-learn
 
 Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installing/)
 
-## Usage
-
-Once you have your dependencies installed via pip, run the demo script in terminal via
-
-```
-python demo.py
-```
-
-
 ## Credits
 
 'Learn Python for Data Science #3' by @Sirajology on [YouTube](https://youtu.be/SSu00IRRraY).
